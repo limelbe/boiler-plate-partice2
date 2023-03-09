@@ -1,2 +1,1 @@
-# boiler-plate-partice2
-# boiler-plate-partice2
+엘리스 1차 스터디에서 강의 복습하면서 다시 해본 것
